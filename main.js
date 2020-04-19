@@ -8,7 +8,7 @@ let loadingBar = setInterval(function() {
         width++;
         loadingBarItemEl.style.width = width + '%';
     }
-}, 50);
+}, 20);
 
 
 // let count = 0;
